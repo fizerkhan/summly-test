@@ -24,13 +24,13 @@ function generateSummary(filename, content, type) {
     switch (type) {
         default:
         case 'fractal':
-            var summary = sum.fractalSummary(content, 3);
+            var summary = sum.fractalSummary(content, 6);
             break;
         case 'wordFrequency':
-            var summary = sum.wordFrequencySummary(content, 3);
+            var summary = sum.wordFrequencySummary(content, 5);
             break;
         case 'sinFrequency':
-            var summary = sum.sinFrequencySummary(content, 3);
+            var summary = sum.sinFrequencySummary(content, 5);
             break;
         case 'sinWordFrequency':
             var summary = sum.sinWordFrequencySummary(content, 5);
