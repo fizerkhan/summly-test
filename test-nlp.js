@@ -6,7 +6,7 @@ var nlpsum = require('nlpsum');
 var sum = new nlpsum();
 
 // var sources = ['example-01.txt', 'example-02.txt', 'example-03.txt', 'example-04.txt'];
-var sources = ['example-01.txt'];
+var sources = ['example-hindu.txt'];
 
 _.each(sources, function(filename) {
     util.readFile(filename, function(err, content) {
@@ -24,13 +24,13 @@ function generateSummary(filename, content, type) {
     switch (type) {
         default:
         case 'fractal':
-            var summary = sum.fractalSummary(content, 6);
+            var summary = sum.fractalSummary(content, 3);
             break;
         case 'wordFrequency':
-            var summary = sum.wordFrequencySummary(content, 5);
+            var summary = sum.wordFrequencySummary(content, 3);
             break;
         case 'sinFrequency':
-            var summary = sum.sinFrequencySummary(content, 5);
+            var summary = sum.sinFrequencySummary(content, 3);
             break;
         case 'sinWordFrequency':
             var summary = sum.sinWordFrequencySummary(content, 5);
