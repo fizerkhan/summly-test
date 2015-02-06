@@ -1,0 +1,17 @@
+{
+  "name": "node-nlpsum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fizer Khan <fizerkhan@gmail.com> (http://www.fizerkhan.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "nlpsum": "^0.1.15",
+    "node-summary": "^1.0.1",
+    "toolbox": "^0.1.1",
+    "underscore": "^1.7.0"
+  }
+}

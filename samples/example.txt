@@ -1,0 +1,22 @@
+The brain of one monkey has been used to control the movements of another, "avatar", monkey, US scientists report.
+Brain scans read the master monkey's mind and were used to electrically stimulate the avatar's spinal cord, resulting in controlled movement.
+The team hope the method can be refined to allow paralysed people to regain control of their own body.
+
+The findings, published in Nature Communications, have been described as "a key step forward".
+Damage to the spinal cord can stop the flow of information from the brain to the body, leaving people unable to walk or feed themselves.
+The researchers are aiming to bridge the damage with machinery.
+
+Match electrical activity.
+The scientists at Harvard Medical School said they could not justify paralysing a monkey.Instead, two were used - a master monkey and a sedated avatar.
+The master had a brain chip implanted that could monitor the activity of up to 100 neurons.
+
+During training, the physical actions of the monkey were matched up with the patterns of electrical activity in the neurons.
+The avatar had 36 electrodes implanted in the spinal cord and tests were performed to see how stimulating different combinations of electrodes affected movement.
+
+The two monkeys were then hooked up so that the brain scans in one controlled movements in real time in the other.
+The sedated avatar held a joystick, while the master had to think about moving a cursor up or down.
+In 98% of tests, the master could correctly control the avatar's arm.
+
+One of the researchers, Dr Ziv Williams, told the BBC: "The goal is to take people with brain stem or spinal cord paralysis and bypass the injury.
+"The hope is ultimately to get completely natural movement, I think it's theoretically possible, but it will require an exponential additional effort to get to that point."
+He said that giving paralysed people even a small amount of movement could dramatically alter their quality of life.
